@@ -2,7 +2,7 @@
 
 I heard that having a recommendation system in your cv is a must.
 
-So, here is my Song Recommendation System based on soptify data.
+So, here is my Song Recommendation System based on spotify data.
 
 ### Clustering Model
 
